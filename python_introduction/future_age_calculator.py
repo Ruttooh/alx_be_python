@@ -1,3 +1,5 @@
+
+print(f"How old are you? 30")
 current_age = 30
 age_in_2050 = current_age + 27
 
